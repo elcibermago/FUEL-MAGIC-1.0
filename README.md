@@ -1,2 +1,2 @@
-# javaknowledge
-_Este es un repo para subir a github mis practicas del lenguaje de programacion Java._
+# FUEL-MAGIC 1.0
+_It's a fuel station sistem software to manage all about it._
